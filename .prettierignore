@@ -1,0 +1,5 @@
+**/dist
+**/.vscode
+**/.nyc_output
+.github
+.all-contributorsrc
