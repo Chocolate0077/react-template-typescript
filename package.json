@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.26.9",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "customize-cra": "^0.9.1",
     "mobx": "^5.15.4",
     "mobx-react": "^6.1.7",
